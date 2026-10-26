@@ -1,0 +1,2 @@
+Fine-tuning: https://huggingface.co/antonius-vincent/Qwen2.5-3B-Instruct-Indonesian-QLoRA
+GRPO: https://huggingface.co/antonius-vincent/Qwen2.5-3B-Instruct-Indonesian-GRPO
